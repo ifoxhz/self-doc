@@ -8,4 +8,4 @@
 
 ## 编程blog
 
-[十年的经验](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
+[Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
