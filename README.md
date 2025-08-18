@@ -10,4 +10,4 @@
 
 [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
 
-[crsf的当前策略，简单更安全](ttps://web.dev/articles/fetch-metadata#how_to_use_fetch_metadata_to_protect_against_cross-origin_attacks)
+[crsf的当前策略，简单更安全](https://web.dev/articles/fetch-metadata#how_to_use_fetch_metadata_to_protect_against_cross-origin_attacks)
