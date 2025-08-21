@@ -12,7 +12,7 @@
 
 [crsf的当前策略，简单更安全](https://web.dev/articles/fetch-metadata#how_to_use_fetch_metadata_to_protect_against_cross-origin_attacks)
 
-[express框架模板](https://github.com/gothinkster)
+[express框架模板](https://github.com/GetStream/Winds)
 
 [LLM是如何scale](https://jax-ml.github.io/scaling-book/)
 
