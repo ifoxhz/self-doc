@@ -15,3 +15,4 @@
 [express框架模板](https://github.com/gothinkster)
 [LLM是如何scale](https://jax-ml.github.io/scaling-book/)
 [All About Transformer Inference](https://jax-ml.github.io/scaling-book/inference/)
+[mit 6.824 分布式系统课程](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824)
