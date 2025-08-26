@@ -19,3 +19,5 @@
 [All About Transformer Inference](https://jax-ml.github.io/scaling-book/inference/)
 
 [mit 6.824 分布式系统课程](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824)
+
+[Russ cox blog，go 大师](https://swtch.com/~rsc/) 
