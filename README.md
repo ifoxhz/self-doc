@@ -21,5 +21,8 @@
 [mit 6.824 分布式系统课程](https://mit-public-courses-cn-translatio.gitbook.io/mit6-824)
 
 [Russ cox blog，go 大师](https://swtch.com/~rsc/) 
+
 [c++](https://cppguide.cn/pages/cpp20completeguides/#%E4%BB%A3%E7%A0%81%E7%AE%80%E5%8C%96)
+
 [招聘的重心](https://davidcancel.com/posts/navigating-growth-why-you-should-hire-people-not-just-skills)
+
