@@ -26,3 +26,5 @@
 
 [招聘的重心](https://davidcancel.com/posts/navigating-growth-why-you-should-hire-people-not-just-skills)
 
+[失败事件的处理策略](https://www.diljitpr.net/blog-post-postgresql-dlq)
+
