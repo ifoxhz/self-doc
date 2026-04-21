@@ -28,3 +28,5 @@
 
 [失败事件的处理策略](https://www.diljitpr.net/blog-post-postgresql-dlq)
 
+[数据库关于索引的所有事情](https://use-the-index-luke.com/)
+
