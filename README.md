@@ -32,4 +32,8 @@
 
 [也是关于索引](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 
+.[关于幂等](https://blog.dochia.dev/blog/idempotency/)
+.[也是关于幂等](https://docs.stripe.com/api/idempotent_requests)
+
+
 ## 大概需要点别的
